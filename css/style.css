@@ -9,6 +9,10 @@ body {
     font-family: 'Dela Gothic One', cursive;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* header */
 nav ul {
     list-style: none;
