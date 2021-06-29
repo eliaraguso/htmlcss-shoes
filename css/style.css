@@ -9,6 +9,7 @@ body {
     font-family: 'Dela Gothic One', cursive;
     background-color: cyan;
 }
+
 /* header */
 nav ul {
     list-style: none;
@@ -40,3 +41,6 @@ nav li {
     right: 2%;
     top: 3%;
 }
+
+/* main */
+
